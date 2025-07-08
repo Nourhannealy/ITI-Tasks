@@ -1,0 +1,14 @@
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\bin\Debug\net9.0\Task2_Array.exe
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\bin\Debug\net9.0\Task2_Array.deps.json
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\bin\Debug\net9.0\Task2_Array.runtimeconfig.json
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\bin\Debug\net9.0\Task2_Array.dll
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\bin\Debug\net9.0\Task2_Array.pdb
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\Task2_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\Task2_Array.AssemblyInfoInputs.cache
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\Task2_Array.AssemblyInfo.cs
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\Task2_Array.csproj.CoreCompileInputs.cache
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\Task2_Array.dll
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\refint\Task2_Array.dll
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\Task2_Array.pdb
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\Task2_Array.genruntimeconfig.cache
+C:\Users\Norhan\Downloads\Task2_Array\Task2_Array\obj\Debug\net9.0\ref\Task2_Array.dll

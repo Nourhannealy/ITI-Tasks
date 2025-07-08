@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Norhan\\Downloads\\Task2_Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A797359-7B05-416E-9933-423F5F26DBE1}|Task2_Array\\Task2_Array.csproj|c:\\users\\norhan\\downloads\\task2_array\\task2_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A797359-7B05-416E-9933-423F5F26DBE1}|Task2_Array\\Task2_Array.csproj|solutionrelative:task2_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Norhan\\Downloads\\Task2_Array\\Task2_Array\\Program.cs",
+              "RelativeDocumentMoniker": "Task2_Array\\Program.cs",
+              "ToolTip": "C:\\Users\\Norhan\\Downloads\\Task2_Array\\Task2_Array\\Program.cs",
+              "RelativeToolTip": "Task2_Array\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:06:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

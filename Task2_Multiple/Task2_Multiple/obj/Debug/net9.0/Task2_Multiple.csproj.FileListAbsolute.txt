@@ -1,0 +1,14 @@
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\bin\Debug\net9.0\Task2_Multiple.exe
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\bin\Debug\net9.0\Task2_Multiple.deps.json
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\bin\Debug\net9.0\Task2_Multiple.runtimeconfig.json
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\bin\Debug\net9.0\Task2_Multiple.dll
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\bin\Debug\net9.0\Task2_Multiple.pdb
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\Task2_Multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\Task2_Multiple.AssemblyInfoInputs.cache
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\Task2_Multiple.AssemblyInfo.cs
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\Task2_Multiple.csproj.CoreCompileInputs.cache
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\Task2_Multiple.dll
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\refint\Task2_Multiple.dll
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\Task2_Multiple.pdb
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\Task2_Multiple.genruntimeconfig.cache
+C:\Users\Norhan\Downloads\Task2_Multiple\Task2_Multiple\obj\Debug\net9.0\ref\Task2_Multiple.dll
